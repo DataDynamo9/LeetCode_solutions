@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -19,9 +20,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
