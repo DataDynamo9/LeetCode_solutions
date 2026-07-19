@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1207-unique-number-of-occurrences](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0009-palindrome-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
