@@ -84,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
