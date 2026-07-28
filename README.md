@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
