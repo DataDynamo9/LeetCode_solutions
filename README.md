@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
 |  |
@@ -108,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
