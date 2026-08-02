@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
