@@ -116,13 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
