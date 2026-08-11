@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0454-4sum-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
 ## Design
