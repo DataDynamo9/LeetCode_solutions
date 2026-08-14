@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [2235-add-two-integers](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2235-add-two-integers) |
 ## Sliding Window
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
