@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2235-add-two-integers](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2235-add-two-integers) |
 ## Sliding Window
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0496-next-greater-element-i) |
