@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        stack<int> st;
+        int n = nums.size();
+        vector<int> arr(n,-1);
+        for (int i = 2*n-1; i >= 0; i--) 
+          {
+            while(st.size()>0 && nums[st.top()]<= nums[i%n] ){
+                st.pop();
+            
+            }if(st.empty()){
+                arr[i%n]=-1;
+            }else{
+                arr[i%n]=nums[st.top()];
+
+            }
+            st.push(i%n);
+
+          }
+          return arr;
+    }
+};
