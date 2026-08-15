@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
