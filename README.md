@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2235-add-two-integers) |
 ## Sliding Window
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
