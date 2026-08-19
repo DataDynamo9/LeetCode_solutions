@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
