@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1929-concatenation-of-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
 |  |
