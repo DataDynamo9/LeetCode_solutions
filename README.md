@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
