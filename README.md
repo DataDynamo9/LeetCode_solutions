@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0894-all-possible-full-binary-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
 | ------- |
