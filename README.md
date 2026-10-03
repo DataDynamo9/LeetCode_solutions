@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0567-permutation-in-string) |
@@ -139,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0394-decode-string) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DataDynamo9/LeetCode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
